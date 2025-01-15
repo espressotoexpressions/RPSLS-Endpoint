@@ -65,7 +65,7 @@ namespace RPSLS_Endpoint.Services
                     break;
 
                     case "lizzard":
-                    whoWon = "User won!";
+                    whoWon = "Computer won!";
                     break;
 
                     case "spock":
