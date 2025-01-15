@@ -28,11 +28,11 @@ namespace RPSLS_Endpoint.Services
                     break;
 
                     case "paper":
-                    whoWon = "User won!";
+                    whoWon = "Computer won!";
                     break;
 
                     case "scissors":
-                    whoWon = "Computer won!";
+                    whoWon = "User won!";
                     break;
 
                     case "lizzard":
