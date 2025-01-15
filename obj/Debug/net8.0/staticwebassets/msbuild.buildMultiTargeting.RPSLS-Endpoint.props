@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/RPSLS-Endpoint.props" />
+</Project>
