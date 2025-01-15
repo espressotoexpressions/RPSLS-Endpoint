@@ -7,7 +7,7 @@
 
 // Brief Description of what I did:
 
-Create the Prototype to your version of Rock, Paper, Scissors, Lizard Spock.
+Create the Prototype to your version of Rock, Paper, Scissors, Lizard Spock -- https://www.figma.com/design/rcTeWu3FPbM376Tgv8ntvG/Karen-Anne-Cadavos's-team-library?node-id=3543-2&t=2uB4WAfa6ddp2x66-1
 
 Create the Endpoint that when called it will give you the CPU response.
 
