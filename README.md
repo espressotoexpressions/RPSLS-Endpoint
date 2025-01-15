@@ -11,4 +11,4 @@ Create the Prototype to your version of Rock, Paper, Scissors, Lizard Spock -- h
 
 Create the Endpoint that when called it will give you the CPU response.
 
-//Peer Reviewed by: 
+//Peer Reviewed by: Kassandra Spacek: Everything looks and works good.
