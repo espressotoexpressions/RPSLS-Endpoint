@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UDlcWUX2W/0=",
+  "dgSpecHash": "BHaTIewZTZ0=",
   "success": true,
-  "projectFilePath": "/Users/karen/Desktop/Codestack/Level2/Week2/RPSLS-Endpoint/RPSLS-Endpoint.csproj",
+  "projectFilePath": "/Users/karen/Desktop/Codestack/Level2/RPSLS-CPU_Endpoint/RPSLS-Endpoint.csproj",
   "expectedPackageFiles": [
     "/Users/karen/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/karen/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

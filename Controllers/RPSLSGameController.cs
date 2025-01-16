@@ -19,10 +19,10 @@ namespace RPSLS_Endpoint.Controllers
         }
 
         [HttpGet]
-        [Route("PlayGame/{userMove}")]
-        public string PlayGame(string userMove)
+        [Route("RPSLSCPUResponse")]
+        public string PlayGame()
         {
-            return _rpslsGameService.PlayGame(userMove);
+            return _rpslsGameService.CPUResponse();
         }
         
     }

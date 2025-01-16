@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karen/Desktop/Codestack/Level2/Week2/RPSLS-Endpoint/RPSLS-Endpoint.csproj",
+      "projectUniqueName": "/Users/karen/Desktop/Codestack/Level2/RPSLS-CPU_Endpoint/RPSLS-Endpoint.csproj",
       "projectName": "RPSLS-Endpoint",
-      "projectPath": "/Users/karen/Desktop/Codestack/Level2/Week2/RPSLS-Endpoint/RPSLS-Endpoint.csproj",
+      "projectPath": "/Users/karen/Desktop/Codestack/Level2/RPSLS-CPU_Endpoint/RPSLS-Endpoint.csproj",
       "packagesPath": "/Users/karen/.nuget/packages/",
-      "outputPath": "/Users/karen/Desktop/Codestack/Level2/Week2/RPSLS-Endpoint/obj/",
+      "outputPath": "/Users/karen/Desktop/Codestack/Level2/RPSLS-CPU_Endpoint/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karen/.nuget/NuGet/NuGet.Config"

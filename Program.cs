@@ -11,6 +11,20 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<RPSLSGameService>();
 
+
+//configure cors policy for unrestricted access
+//this piece of code will allow any request from any domain to access our endpoint ("Example.com");
+builder.Services.AddCors(options=> {
+    options.AddPolicy("AllowAll",
+    policy=>{
+        // who can knock at our door and what can they bring in
+        policy.AllowAnyOrigin() // allows requests from any origin
+            .AllowAnyMethod() // allows http requests  (GET,POST,PUT , DELETE) 
+            .AllowAnyMethod();  //allows any header
+    });
+
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -21,6 +35,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("AllowAll");
 
 app.UseAuthorization();
 
